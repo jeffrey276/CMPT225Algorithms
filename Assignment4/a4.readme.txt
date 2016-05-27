@@ -1,0 +1,15 @@
+301233627 jzcheng@sfu.ca Jeffrey Cheng
+
+For my program, I used the implementation file and header file from Lab 4: LL2.cpp and LL2.h
+I added the following operations: 
+
+GetLargest() - obtained from http://www.bitsbyta.com/2011/03/how-to-find-largest-element-in-singly.html
+removeDuplicates() - obtained from http://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/
+isEmpty() - myself
+
+My program works as the following:
+1. Read inputs from text file and insert into linked list
+2. Remove duplicates
+3. Using recursion, I use GetLargest() and compare in list 1 and list 2. 
+If there is a largest value in list 1, but not in list 2, the program should find the value
+4. Outputs "None" otherwise.
