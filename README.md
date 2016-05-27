@@ -1,6 +1,6 @@
 # CMPT225 Algorithms
 Assignments from CMPT225 at SFU    
-Assignment 1: (Grouping Symbol Checking)  
+<b>Assignment 1: (Grouping Symbol Checking)  </b>
 You are to write a C++ program that reads a text file from "standard input", and checks that all occurrences of the grouping symbols (),{} and [] are correctly matched and nested. (The text file could be, for example, a C++ source code file.) If there is any incorrect matching or nesting, the program prints out a message, as described below, identifying where the first error was found and the nature of the error. Otherwise, it prints a line containing only the string "No Errors Found".
   
   
